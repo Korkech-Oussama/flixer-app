@@ -457,6 +457,7 @@ function init(){
         case '/movie-details.html':
             displayMovieDetails()
             break
+        case '/shows':
         case '/shows.html':
             displayPopularTvShows()
             break
